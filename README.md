@@ -1,7 +1,17 @@
 # minionguyjpro.github.io
 Minionguyjpro GitHub Home Site
 # Navigation
-| Projects                                                               |
-|------------------------------------------------------------------------|
-| 1. [WinUEFI](https://winuefi.minionguyjpro.me)                         |
-| 2. [Windows All-In-One Tool](https://windows_aio_tool.minionguyjpro,ne)|
+<table>
+<thead>
+<tr>
+<th>Projects</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>1. <a href="https://winuefi.minionguyjpro.me">WinUEFI</a></td>
+</tr>
+<tr>
+<td>2. <a href="https://windows_aio_tool.minionguyjpro,ne">Windows All-In-One Tool</a></td>
+</tr>
+</tbody>
