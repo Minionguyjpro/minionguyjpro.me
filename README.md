@@ -1,4 +1,4 @@
-# Minionguyjpro.me 🎈
+# Minionguyjpro! 🎈
 Minionguyjpro GitHub Home Site
 # Navigation
 <table>
