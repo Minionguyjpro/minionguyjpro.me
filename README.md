@@ -1,5 +1,5 @@
 # Minionguyjpro! 🎈
-Minionguyjpro GitHub Home Site
+Hello there! I am a teenager who loves computing. I started developing, tinkering with computers, upgrading computers (building a PC is a future plan). I also started writing a book called ``The Computing Guy: A Story of Knowledge`` and I love it! I am also creating ideas in a book, which I share with y'all in the repository you can find by clicking [here](https://github.com/Minionguyjpro/Brain-Diggin). If I wouldn't become software engineer then I'd become architect, inventer, engineer in general, book writer or something else that I'd love. 
 # Navigation
 <table>
 <thead>
